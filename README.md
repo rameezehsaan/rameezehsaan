@@ -24,7 +24,7 @@ Let's Connect.</h3>
   <a href="https://twitter.com/furiousrehsan" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://linkedin.com/in/in/rameez-ehsan" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+  <a href="https://linkedin.com/in/rameez-ehsan-93251b250" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
   <a href="https://instagram.com/rameezehsaan" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
