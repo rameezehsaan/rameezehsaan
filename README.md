@@ -21,10 +21,10 @@ Let's Connect.</h3>
 <a href="https://github.com/rameezehsaan" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://twitter.com/Twitter_furiousrehsan" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
+  <a href="https://twitter.com/furiousrehsan" target="_blank" rel="noreferrer noopener" title="Twitter / X" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter / X" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://linkedin.com/in/in/rameez-ehsan-93251b250" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+  <a href="https://linkedin.com/in/in/rameez-ehsan" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
   <a href="https://instagram.com/rameezehsaan" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
@@ -65,5 +65,5 @@ Let's Connect.</h3>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=rameezehsaan&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rameezehsaan&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/Twitter_furiousrehsan" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/Twitter_furiousrehsan?logo=x&style=social" alt="Follow @Twitter_furiousrehsan on Twitter" /></a>   <a href="https://github.com/sponsors/rameezehsaan" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @rameezehsaan" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rameezehsaan&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://twitter.com/furiousrehsan" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/twitter/follow/furiousrehsan?logo=x&style=social" alt="Follow @furiousrehsan on Twitter" /></a>   <a href="https://github.com/sponsors/rameezehsaan" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @rameezehsaan" /></a>
 </p>
