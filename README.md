@@ -11,14 +11,7 @@
 </a>
 </h1>
 <h2 align = "center">A passionate AI Engineer from India</h2>
-
 </br>
-<div align= "center">
-
-# 💫 About Me:
-I'm currently working on AI agents
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rameezehsaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rameez-ehsan-93251b250) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/furiousrehsan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rameez.fcb@gmail.com) 
 
