@@ -5,7 +5,7 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalamualaikum!+%F0%9F%91%8B;Myself+Rameez+Ehsan!"
+    src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello Visitor!+%F0%9F%91%8B;Myself+Rameez+Ehsan!"
     alt="Typing SVG"
 
 </a>
