@@ -9,7 +9,7 @@
     />
   </a>
 </h1>
-<h2 align = "center">A passionate AI Engineer from India</h2>
+<h2 align = "center">A passionate AI Engineer from New Delhi,India</h2>
 </br>
 
 ## 🌐 Socials:
