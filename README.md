@@ -5,14 +5,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Hi+There!+%F0%9F%91%8B;Welcome+to+my+GitHub;Myself+Rameez+Ehsan!;%D8%B3%D8%AA%D8%A7%D8%B1%D9%88%DA%BA+%D8%B3%DB%92+%D8%A2%DA%AF%DB%92+%D8%AC%DB%81%D8%A7%DA%BA+%D8%A7%D9%88%D8%B1+%D8%A8%DA%BE%DB%8C+%DB%81%DB%8C%DA%BA+-+Allama+Iqbal" 
+      src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=6000&lines=Hi+There!+%F0%9F%91%8B;Welcome+to+my+GitHub;Myself+Rameez+Ehsan!;sitāroñ+se+aage+jahāñ+aur+bhī+haiñ+-+Allama+Iqbal" 
       alt="Typing SVG"
     />
   </a>
 </h1>
 
 <h2 align="center">A passionate AI Engineer from New Delhi, India</h2>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rameezehsaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rameez-ehsan-93251b250) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/furiousrehsan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rameez.fcb@gmail.com) 
 
